@@ -1,0 +1,9 @@
+name: laravel
+recipe: laravel
+config:
+  php: '7.3'
+  via: apache
+  webroot: app/public
+  database: mysql
+  cache: none
+  xdebug: false
